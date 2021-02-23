@@ -1,0 +1,48 @@
+body {
+    color: #003049;
+    background-color: #fadda0;
+    line-height: 1,7;
+    text-align: left;
+    font-family: 'Kreon', 'Noto Serif', serif;
+}
+
+header{
+    padding: 30px 15%;
+    }
+
+.Paulina-foto {
+    width: 200px;
+    border: 2px solid #ba6c13; 
+    border-radius: 0px 50px 50px 50px;
+    float: left;
+    margin: 50px 100px 50px 200px;
+    }
+h1 {
+    color: #d62828;
+    font-size: 30px;
+   }
+h2 {
+    color: #ba6c13;
+    font-size: 20px;
+}
+h3 {
+    color: #f77f00;
+    font size: 15px
+    }
+a{
+    font-style: italic;
+}
+
+section {
+    padding: 5px 15%;
+}
+.uvod {
+    background-color: #fad68c;
+    padding: 20px 0;
+ }
+.paticka {
+    background-color: #473617;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}

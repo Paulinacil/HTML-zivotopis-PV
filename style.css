@@ -1,7 +1,7 @@
 body {
     color: #003049;
     background-color: #fadda0;
-    line-height: 1,7;
+    line-height: 1.7;
     text-align: left;
     font-family: 'Kreon', 'Noto Serif', serif;
 }
@@ -27,7 +27,7 @@ h2 {
 }
 h3 {
     color: #f77f00;
-    font size: 15px
+    font-size: 15px
     }
 a{
     font-style: italic;
